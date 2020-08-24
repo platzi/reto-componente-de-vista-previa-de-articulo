@@ -4,9 +4,9 @@
 
 ## Bienvenida/o al reto 2 👋
 
-Los retos que encontarás semana a semana permiten mejorar tus habilidades en un flujo de trabajo de la vida real.
+Los retos que encontrarás semana a semana permiten mejorar tus habilidades en un flujo de trabajo de la vida real.
 
-Estás lista/o?
+¿Estás lista/o?
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
@@ -23,7 +23,7 @@ Tus usuarios deberían poder:
 - Ver el diseño óptimo del componente según el tamaño de pantalla de su dispositivo. (Mobile First es requerido)
 - Ver los enlaces para compartir en las redes sociales cuando hagan clic en el icono de compartir
 
-## ¿Donde encontar todo?
+## ¿Donde encontrar todo?
 
 Tu tarea es realizar el reto con los diseños dentro de la carpeta `/design`. Ahí encontrará una versión móvil y de escritorio del diseño a trabajar.
 
@@ -51,6 +51,6 @@ No dudes en utilizar cualquier flujo de trabajo con el que te sienta más cómod
 
 **Diviértete y disfruta creando éste reto !** 🚀
 
-## Creditos por el diseño y reto.
+## Créditos por el diseño y reto.
 
 Este reto pertenece a la lista de retos de [Frontend Mentor](https://www.frontendmentor.io/)
